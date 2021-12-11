@@ -1,6 +1,9 @@
 ## Time Tracker App
 
-Converts browsing history in CSV format into a chart with Chartjs.
+Adnaan Syed, Gary Feng, Wen Lee
+
+Time Tracker allow users to visualize their web time usage by uploading their CSV file.<br>
+Converts browsing history in CSV file data into a chart with Chartjs.<br>
 
 Run server:
 

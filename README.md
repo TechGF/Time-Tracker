@@ -13,3 +13,5 @@ Run app:
 
 - npm start root folder
 
+## Video Walkthrough:
+<img src='http://g.recordit.co/mEFDosNt7B.gif'><br>
